@@ -1,0 +1,160 @@
+{
+  "sales": [
+    {
+      "author": "Dr. Seuss",
+      "book_id": 1,
+      "customer_id": 1,
+      "first_name": "Jane",
+      "isbn": "978-0375834929",
+      "last_name": "Doe",
+      "price": 5.47,
+      "sales_id": 1,
+      "sex": "f",
+      "title": "The Cat in the Hat"
+    },
+    {
+      "author": "P.D. Eastman",
+      "book_id": 3,
+      "customer_id": 1,
+      "first_name": "Jane",
+      "isbn": "978-0394800202",
+      "last_name": "Doe",
+      "price": 8.16,
+      "sales_id": 2,
+      "sex": "f",
+      "title": "Go, Dog Go"
+    },
+    {
+      "author": "Michael Crichton",
+      "book_id": 4,
+      "customer_id": 1,
+      "first_name": "Jane",
+      "isbn": "978-0061703089",
+      "last_name": "Doe",
+      "price": 8.69,
+      "sales_id": 3,
+      "sex": "f",
+      "title": "Prey"
+    },
+    {
+      "author": "Dr. Seuss",
+      "book_id": 1,
+      "customer_id": 2,
+      "first_name": "John",
+      "isbn": "978-0375834929",
+      "last_name": "Doe",
+      "price": 5.47,
+      "sales_id": 4,
+      "sex": "m",
+      "title": "The Cat in the Hat"
+    },
+    {
+      "author": "Dr. Seuss",
+      "book_id": 2,
+      "customer_id": 2,
+      "first_name": "John",
+      "isbn": "978-0375834950",
+      "last_name": "Doe",
+      "price": 6.83,
+      "sales_id": 5,
+      "sex": "m",
+      "title": "Green Eggs and Ham"
+    },
+    {
+      "author": "Michael Crichton",
+      "book_id": 5,
+      "customer_id": 2,
+      "first_name": "John",
+      "isbn": "978-0061782664",
+      "last_name": "Doe",
+      "price": 8.86,
+      "sales_id": 6,
+      "sex": "m",
+      "title": "State of Fear"
+    },
+    {
+      "author": "Dr. Seuss",
+      "book_id": 1,
+      "customer_id": 3,
+      "first_name": "Bill",
+      "isbn": "978-0375834929",
+      "last_name": "Gates",
+      "price": 5.47,
+      "sales_id": 7,
+      "sex": "m",
+      "title": "The Cat in the Hat"
+    },
+    {
+      "author": "Dr. Seuss",
+      "book_id": 2,
+      "customer_id": 3,
+      "first_name": "Bill",
+      "isbn": "978-0375834950",
+      "last_name": "Gates",
+      "price": 6.83,
+      "sales_id": 8,
+      "sex": "m",
+      "title": "Green Eggs and Ham"
+    },
+    {
+      "author": "Michael Crichton",
+      "book_id": 5,
+      "customer_id": 3,
+      "first_name": "Bill",
+      "isbn": "978-0061782664",
+      "last_name": "Gates",
+      "price": 8.86,
+      "sales_id": 9,
+      "sex": "m",
+      "title": "State of Fear"
+    },
+    {
+      "author": "Dr. Seuss",
+      "book_id": 2,
+      "customer_id": 4,
+      "first_name": "Ada",
+      "isbn": "978-0375834950",
+      "last_name": "Lovelace",
+      "price": 6.83,
+      "sales_id": 10,
+      "sex": "f",
+      "title": "Green Eggs and Ham"
+    },
+    {
+      "author": "P.D. Eastman",
+      "book_id": 3,
+      "customer_id": 4,
+      "first_name": "Ada",
+      "isbn": "978-0394800202",
+      "last_name": "Lovelace",
+      "price": 8.16,
+      "sales_id": 11,
+      "sex": "f",
+      "title": "Go, Dog Go"
+    },
+    {
+      "author": "Michael Crichton",
+      "book_id": 4,
+      "customer_id": 4,
+      "first_name": "Ada",
+      "isbn": "978-0061703089",
+      "last_name": "Lovelace",
+      "price": 8.69,
+      "sales_id": 12,
+      "sex": "f",
+      "title": "Prey"
+    },
+    {
+      "author": "Michael Crichton",
+      "book_id": 5,
+      "customer_id": 4,
+      "first_name": "Ada",
+      "isbn": "978-0061782664",
+      "last_name": "Lovelace",
+      "price": 8.86,
+      "sales_id": 13,
+      "sex": "f",
+      "title": "State of Fear"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sales": [
+    {
+      "first_name": "Jane",
+      "id": 1,
+      "last_name": "Doe",
+      "sex": "f"
+    },
+    {
+      "first_name": "John",
+      "id": 2,
+      "last_name": "Doe",
+      "sex": "m"
+    },
+    {
+      "first_name": "Bill",
+      "id": 3,
+      "last_name": "Gates",
+      "sex": "m"
+    },
+    {
+      "first_name": "Ada",
+      "id": 4,
+      "last_name": "Lovelace",
+      "sex": "f"
+    }
+  ]
+}

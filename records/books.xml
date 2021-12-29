@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<sales>
+  <sale>
+    <id>1</id>
+    <title>The Cat in the Hat</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834929</isbn>
+    <price>5.47</price>
+  </sale>
+  <sale>
+    <id>2</id>
+    <title>Green Eggs and Ham</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834950</isbn>
+    <price>6.83</price>
+  </sale>
+  <sale>
+    <id>3</id>
+    <title>Go, Dog Go</title>
+    <author>P.D. Eastman</author>
+    <isbn>978-0394800202</isbn>
+    <price>8.16</price>
+  </sale>
+  <sale>
+    <id>4</id>
+    <title>Prey</title>
+    <author>Michael Crichton</author>
+    <isbn>978-0061703089</isbn>
+    <price>8.69</price>
+  </sale>
+  <sale>
+    <id>5</id>
+    <title>State of Fear</title>
+    <author>Michael Crichton</author>
+    <isbn>978-0061782664</isbn>
+    <price>8.86</price>
+  </sale>
+</sales>

@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<sales>
+  <sale>
+    <book_id>1</book_id>
+    <title>The Cat in the Hat</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834929</isbn>
+    <price>5.47</price>
+    <customer_id>1</customer_id>
+    <first_name>Jane</first_name>
+    <last_name>Doe</last_name>
+    <sex>f</sex>
+    <sales_id>1</sales_id>
+  </sale>
+  <sale>
+    <book_id>3</book_id>
+    <title>Go, Dog Go</title>
+    <author>P.D. Eastman</author>
+    <isbn>978-0394800202</isbn>
+    <price>8.16</price>
+    <customer_id>1</customer_id>
+    <first_name>Jane</first_name>
+    <last_name>Doe</last_name>
+    <sex>f</sex>
+    <sales_id>2</sales_id>
+  </sale>
+  <sale>
+    <book_id>4</book_id>
+    <title>Prey</title>
+    <author>Michael Crichton</author>
+    <isbn>978-0061703089</isbn>
+    <price>8.69</price>
+    <customer_id>1</customer_id>
+    <first_name>Jane</first_name>
+    <last_name>Doe</last_name>
+    <sex>f</sex>
+    <sales_id>3</sales_id>
+  </sale>
+  <sale>
+    <book_id>1</book_id>
+    <title>The Cat in the Hat</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834929</isbn>
+    <price>5.47</price>
+    <customer_id>2</customer_id>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <sex>m</sex>
+    <sales_id>4</sales_id>
+  </sale>
+  <sale>
+    <book_id>2</book_id>
+    <title>Green Eggs and Ham</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834950</isbn>
+    <price>6.83</price>
+    <customer_id>2</customer_id>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <sex>m</sex>
+    <sales_id>5</sales_id>
+  </sale>
+  <sale>
+    <book_id>5</book_id>
+    <title>State of Fear</title>
+    <author>Michael Crichton</author>
+    <isbn>978-0061782664</isbn>
+    <price>8.86</price>
+    <customer_id>2</customer_id>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <sex>m</sex>
+    <sales_id>6</sales_id>
+  </sale>
+  <sale>
+    <book_id>1</book_id>
+    <title>The Cat in the Hat</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834929</isbn>
+    <price>5.47</price>
+    <customer_id>3</customer_id>
+    <first_name>Bill</first_name>
+    <last_name>Gates</last_name>
+    <sex>m</sex>
+    <sales_id>7</sales_id>
+  </sale>
+  <sale>
+    <book_id>2</book_id>
+    <title>Green Eggs and Ham</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834950</isbn>
+    <price>6.83</price>
+    <customer_id>3</customer_id>
+    <first_name>Bill</first_name>
+    <last_name>Gates</last_name>
+    <sex>m</sex>
+    <sales_id>8</sales_id>
+  </sale>
+  <sale>
+    <book_id>5</book_id>
+    <title>State of Fear</title>
+    <author>Michael Crichton</author>
+    <isbn>978-0061782664</isbn>
+    <price>8.86</price>
+    <customer_id>3</customer_id>
+    <first_name>Bill</first_name>
+    <last_name>Gates</last_name>
+    <sex>m</sex>
+    <sales_id>9</sales_id>
+  </sale>
+  <sale>
+    <book_id>2</book_id>
+    <title>Green Eggs and Ham</title>
+    <author>Dr. Seuss</author>
+    <isbn>978-0375834950</isbn>
+    <price>6.83</price>
+    <customer_id>4</customer_id>
+    <first_name>Ada</first_name>
+    <last_name>Lovelace</last_name>
+    <sex>f</sex>
+    <sales_id>10</sales_id>
+  </sale>
+  <sale>
+    <book_id>3</book_id>
+    <title>Go, Dog Go</title>
+    <author>P.D. Eastman</author>
+    <isbn>978-0394800202</isbn>
+    <price>8.16</price>
+    <customer_id>4</customer_id>
+    <first_name>Ada</first_name>
+    <last_name>Lovelace</last_name>
+    <sex>f</sex>
+    <sales_id>11</sales_id>
+  </sale>
+  <sale>
+    <book_id>4</book_id>
+    <title>Prey</title>
+    <author>Michael Crichton</author>
+    <isbn>978-0061703089</isbn>
+    <price>8.69</price>
+    <customer_id>4</customer_id>
+    <first_name>Ada</first_name>
+    <last_name>Lovelace</last_name>
+    <sex>f</sex>
+    <sales_id>12</sales_id>
+  </sale>
+  <sale>
+    <book_id>5</book_id>
+    <title>State of Fear</title>
+    <author>Michael Crichton</author>
+    <isbn>978-0061782664</isbn>
+    <price>8.86</price>
+    <customer_id>4</customer_id>
+    <first_name>Ada</first_name>
+    <last_name>Lovelace</last_name>
+    <sex>f</sex>
+    <sales_id>13</sales_id>
+  </sale>
+</sales>

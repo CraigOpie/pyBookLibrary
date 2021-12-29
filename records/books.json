@@ -1,0 +1,39 @@
+{
+  "sales": [
+    {
+      "author": "Dr. Seuss",
+      "id": 1,
+      "isbn": "978-0375834929",
+      "price": 5.47,
+      "title": "The Cat in the Hat"
+    },
+    {
+      "author": "Dr. Seuss",
+      "id": 2,
+      "isbn": "978-0375834950",
+      "price": 6.83,
+      "title": "Green Eggs and Ham"
+    },
+    {
+      "author": "P.D. Eastman",
+      "id": 3,
+      "isbn": "978-0394800202",
+      "price": 8.16,
+      "title": "Go, Dog Go"
+    },
+    {
+      "author": "Michael Crichton",
+      "id": 4,
+      "isbn": "978-0061703089",
+      "price": 8.69,
+      "title": "Prey"
+    },
+    {
+      "author": "Michael Crichton",
+      "id": 5,
+      "isbn": "978-0061782664",
+      "price": 8.86,
+      "title": "State of Fear"
+    }
+  ]
+}
